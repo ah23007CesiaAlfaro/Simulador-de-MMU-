@@ -25,7 +25,7 @@ Para que el simulador funcione correctamente, es necesario ajustar la configurac
 2.  Presione el botón verde **"Ejecutar" (F9)**.
 3.  El programa desplegará automáticamente las Fases 1 a 4 en la consola y mostrará el cuadro comparativo de fallos de página al finalizar.
 
-## 📊 Análisis de Rendimiento
+##  Análisis de Rendimiento
 
 Tras ejecutar la simulación con la secuencia de referencia proporcionada, se obtuvieron los siguientes resultados:
 
